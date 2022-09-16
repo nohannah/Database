@@ -21,6 +21,9 @@
 			<input type='text' name='name' id="name" required/><br> <br>
 	
 			<input type='submit' name='submit' id='submit' />
+			
+			<input type='text' name='text' id='text' />
+			
 	</form>
 	
 	
